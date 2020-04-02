@@ -1,6 +1,9 @@
-"# pablo.yucra-ucsp.edu.pe" 
+//"# pablo.yucra-ucsp.edu.pe"
+#include <iostream>
+
+using namespace std;
 
 int main()
 {
-	printf ()
+	cout << "Hello  World";
 }
